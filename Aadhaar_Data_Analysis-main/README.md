@@ -19,7 +19,7 @@ Aadhaar Setu is an advanced data intelligence platform that processes millions o
 🔗 **Dashboard (Live):** [https://aadhaar-data-analysis-audit.streamlit.app](https://aadhaar-data-analysis-audit.streamlit.app)
 
 > **NOTE:** The dashboard is hosted on Streamlit's free tier and may occasionally crash or run out of memory.
-> If the site is down, please email `perimilisunil@gmail.com` and I will restart the app and ensure it runs as expected.
+> If the site is down, please email `mangalivenkateswarlu91.com` and I will restart the app and ensure it runs as expected.
 > For better experience switch to **LIGHT MODE** , 
 
 ---
@@ -383,10 +383,10 @@ Contributions are welcome! Please follow these guidelines:
 ## 📥 Contact & Support
 
 ### Project Maintainer
-**Sunil Kumar**  
-🔗 [GitHub](https://github.com/perimilisunil)  
-🔗 [LinkedIn](https://www.linkedin.com/in/perimili-sunil-kumar-bb22b3300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-📧 [perimilisunil@gmail.com](mailto:perimilisunil@gmail.com)
+**M Venkateswarlu**  
+🔗 [GitHub](https://www.github.com/Venky-Bat)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mangalivenkateswarlu)  
+📧 [mangalivenkateswarlu91@gmail.com](mangalivenkateswarlu91@gmail.com)
 
 ---
 
