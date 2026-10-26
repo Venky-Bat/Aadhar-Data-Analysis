@@ -6,7 +6,7 @@
 ![ML](https://img.shields.io/badge/ML-Scikit--Learn-orange?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![Data](https://img.shields.io/badge/Data-Pandas-green?logo=pandas&logoColor=white&style=for-the-badge)
 ![Charts](https://img.shields.io/badge/Charts-Plotly-purple?logo=plotly&logoColor=white&style=for-the-badge)
-![PDF](https://img.shields.io/badge/PDF-FPDF2-darkred?style=for-the-badge)
+
 
 
 > **A production-grade  analytics engine for safeguarding Digital Public Infrastructure (DPI) at national scale.**
